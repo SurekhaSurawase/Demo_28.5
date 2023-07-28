@@ -1,0 +1,10 @@
+2023-07-22 21:41:03,858 [main] INFO 11March Automation Framework - Open browser
+2023-07-22 21:41:04,476 [main] INFO 11March Automation Framework - maximize browser
+2023-07-22 21:41:10,656 [main] INFO 11March Automation Framework - Open BaseURL
+2023-07-22 21:41:16,014 [main] INFO 11March Automation Framework - Click on Register tab
+2023-07-22 21:41:18,668 [main] INFO 11March Automation Framework - Select Gender
+2023-07-22 21:41:19,341 [main] INFO 11March Automation Framework - Enter user first name
+2023-07-22 21:41:19,545 [main] INFO 11March Automation Framework - Enter user last name
+2023-07-22 21:41:29,292 [main] INFO 11March Automation Framework - Enter user email
+2023-07-22 21:41:29,590 [main] INFO 11March Automation Framework - Enter user password
+2023-07-22 21:41:31,443 [main] INFO 11March Automation Framework - click on submit
